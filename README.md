@@ -266,6 +266,21 @@ Cloud sandbox platform (now part of Together AI) for isolated microVM environmen
 
 ---
 
+### [CreateOS](https://createos.sh)
+[Website](https://createos.sh) | [Docs](https://createos.sh/products/sandbox) | [GitHub](https://github.com/NodeOps-app/createos-sandbox-sdk)
+
+Unified AI execution layer for enterprises. Firecracker micro-VMs with pause-to-snapshot, fork-based branching, and private overlay networking for multi-agent systems.
+
+- **Isolation:** Firecracker microVMs with individual guest kernels, eBPF-enforced egress allowlists
+- **Key features:** Pause-to-snapshot (full memory + device state), auto-pause on idle with zero compute cost, fork for branching agent execution paths, private sandbox-to-sandbox overlay networking, object storage sync (S3/MinIO/R2), custom rootfs templates, MCP support for agent-driven provisioning, zero egress fees
+- **Stateful:** Yes, pause preserves full state, resume without cold boot
+- **GPU:** No
+- **BYOC / Self-host:** No
+- **SDKs:** TypeScript, CLI
+- **Pricing:** Per-second billing, paused sandboxes at $0. Free tier with 500 credits, no card required
+
+---
+
 ### [Freestyle](https://freestyle.sh)
 [Website](https://freestyle.sh) | [Docs](https://freestyle.sh/docs) | [GitHub](https://github.com/freestyle-sh/freestyle-sh)
 
