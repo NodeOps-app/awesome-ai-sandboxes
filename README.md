@@ -267,7 +267,7 @@ Cloud sandbox platform (now part of Together AI) for isolated microVM environmen
 ---
 
 ### [CreateOS](https://createos.sh)
-[Website](https://createos.sh) | [Docs](https://createos.sh/products/sandbox) | [GitHub](https://github.com/NodeOps-app/createos-sandbox-sdk)
+[Website](https://createos.sh) | [Docs](https://nodeops.network/createos/docs/Sandbox/Overview) | [GitHub](https://github.com/NodeOps-app/createos-sandbox-sdk)
 
 Unified AI execution layer for enterprises. Firecracker micro-VMs with pause-to-snapshot, fork-based branching, and private overlay networking for multi-agent systems.
 
